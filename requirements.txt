@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+sklearn
+sklearn.linear_model
+sklearn.metrics
+sklearn.feature_extraction.text
